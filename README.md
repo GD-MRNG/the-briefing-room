@@ -1,5 +1,5 @@
-# 🗂️ Intelligence Archive
-### A curated intelligence repository
+# 🛰️ The Briefing Room
+### Strategic Intelligence, Weekly.
 
 ---
 
@@ -78,7 +78,7 @@ The local server will automatically reflect changes as you develop.
 The live version of the site is available at:
 
 ```
-https://lizzypokerface.github.io/intelligence-archive/
+https://GD-MRNG.github.io/the-briefing-room/
 ```
 
 This version is deployed via GitHub Pages.

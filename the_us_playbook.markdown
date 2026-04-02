@@ -4,8 +4,7 @@ title: The US Playbook
 permalink: /the-us-playbook/
 ---
 
-# The US Playbook: A Reference for Understanding Global Conflict
-
+# A Reference for Understanding Global Conflict
 
 ![Global geopolitical map highlighting key regions and maritime chokepoints](https://yt3.ggpht.com/LMV2JkwHTlyB8DE2wfece4FG1n8vP1C5pnVsQ6N2aYhzbFZAST1XrgKvUgQ3ImzKKP5Vy_sZAyNU9Ec=s640-nd-v1)
 
@@ -15,23 +14,17 @@ Every significant US military, intelligence, economic, and political operation a
 
 When you are confused by any news event anywhere in the world, return to this sentence first.
 
----
-
 ## The Core Strategic Logic
 
 The United States operates on a straightforward but ruthless premise: whoever controls global energy controls the global economy, and whoever controls the global economy controls the world. China's rise threatens to permanently end American unipolar dominance, and American institutions — specifically the Wall Street-aligned corporations in the arms, oil, technology, agriculture, and pharmaceutical industries that have always driven US foreign policy — are not willing to accept that outcome voluntarily. They will never voluntarily accept it. This is not a recent policy. It is the continuation of an imperial project that began when the US was founded as an extension of the British Empire and has never stopped expanding.
 
 The critical timing pressure is this: every year that passes without decisive action, China grows stronger. Its military expands. Its economy deepens. Its energy independence increases. The US therefore faces a closing window, and everything you see happening right now is the US attempting to act through that window before it shuts permanently. This is why events that look chaotic and disconnected are actually moving with purpose and urgency. The US is not stumbling into these conflicts. It is racing into them.
 
----
-
 ## The Ultimate Objective: A Global Energy Blockade on China
 
 The strategic endgame the US has been building toward — documented in its own policy papers, force restructuring programs, and military deployments — is the imposition of a comprehensive maritime energy blockade on China. A 2018 US Naval War College paper literally titled "A Maritime Oil Blockade Against China" describes this openly. The idea is to seal off the chokepoints through which China imports the energy that runs its economy — primarily the Strait of Malacca, but also the Strait of Hormuz further west — using US naval and Marine forces that have been specifically restructured and re-armed for exactly this anti-shipping, strait-interdiction mission.
 
 But a maritime blockade alone is not sufficient. China has spent years building overland bypass routes — pipelines through Myanmar, through Pakistan, and through Russia — precisely to hedge against this threat. So the US is simultaneously attacking every one of those bypass routes as well, through a combination of proxy wars, CIA-directed covert operations, and direct military force. The blockade is therefore not just maritime. It is global. It targets every energy artery feeding China from every direction at once.
-
----
 
 ## The Fronts of the Global Energy War
 
@@ -49,8 +42,6 @@ To orient yourself, understand each major conflict zone as a specific front in t
 
 **The Asia-Pacific encirclement** is the military architecture meant to enforce the blockade closer to China itself. Japan is deploying missiles to islands 110 kilometers from Taiwan. The Philippines has been steered by US-interfered elections away from Chinese investment and toward US missile bases, including one only 185 kilometers from Taiwan. Tens of thousands of US troops are stationed across Japan, South Korea, Australia, and the Philippines. US troops are present in Taiwan, which is legally recognized — even under US policy — as Chinese territory. All of this mirrors what the US did to Russia by expanding NATO to its borders and to Iran by stationing forces in Iraq and Afghanistan on both its eastern and western flanks simultaneously.
 
----
-
 ## The Playbook: How the US Executes This Strategy
 
 Understanding the consistent methods the US uses across all these fronts allows you to recognize the playbook wherever it is being run, even in countries or contexts you are unfamiliar with.
@@ -67,8 +58,6 @@ Understanding the consistent methods the US uses across all these fronts allows 
 
 **Step six is economic and financial warfare running in parallel with military operations.** Tariffs, technology bans, sanctions, asset seizures, and the weaponization of the dollar-denominated financial system all run concurrently with military operations, applying pressure on China and its partners across every domain simultaneously. The sanctions imposed on Russia and Iran are themselves instruments of this broader strategy, designed not just to punish but to force third countries to choose between access to the US-dominated financial system and access to Russian or Iranian energy.
 
----
-
 ## How to Read US Officials and Media
 
 Understand that what US officials say publicly — including the President — is almost never a description of what the US is actually doing. It is a tool for managing public perception, manipulating markets, and stringing audiences along. Trump's repeated claims that the Iran war is nearing completion, that he wants peace, that he is bored with the conflict — none of this reflects actual US policy, which is determined not by any elected official but by the institutional interests of the corporations and financial powers that fund and control all branches of US government. The President is not the decision-maker. He is the spokesperson for decisions made elsewhere.
@@ -77,13 +66,9 @@ Similarly, when Western media frames any of these conflicts through the lens of 
 
 The reliable signal is always actions, not words. Watch what money flows where, what weapons go to whom, what infrastructure gets attacked, and which governments fall or survive. That is the actual policy.
 
----
-
 ## The Fallback Position: Burning Eurasia
 
 One final element of the playbook must be understood because it explains why the US will not stop even if its primary objectives prove unachievable. If the US cannot achieve ideal outcomes — controlling Middle Eastern energy, toppling Iran, sufficiently degrading Russia, and strangling China — it will accept a fallback: the comprehensive destruction of Eurasia as a functioning economic zone. The US sits behind two oceans. If it can inflict enough damage on the Eurasian landmass — through wars, energy disruption, economic collapse, and infrastructure destruction — it believes it can emerge from the resulting chaos stronger *relative* to everyone else, even if weaker in absolute terms. From the perspective of Wall Street and Washington, a destroyed multipolar world in which no one can challenge the US is preferable to a prosperous multipolar world in which China leads. This is not a fringe interpretation. It is the logical conclusion of observable US behavior across Venezuela, Iran, Russia, Myanmar, and the Asia-Pacific simultaneously.
-
----
 
 ## The One Question to Ask When Confused
 
